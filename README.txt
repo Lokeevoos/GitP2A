@@ -1,2 +1,2 @@
 Un CV simple pour montrer que j'ai compris le cours...
-Le CV est en html accompgné d'un fichier .css
+Le CV est en html accompagné d'un fichier .css
