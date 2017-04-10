@@ -1,2 +1,2 @@
 # GitP2A
-Un CV simple
+Un CV simple pour montrer que j'ai compris le cours...
